@@ -1,0 +1,24 @@
+[
+  {
+    "x500Name" : "CN=Harvester, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+  {
+    "x500Name" : "CN=LSP, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+  {
+    "x500Name" : "CN=Collector, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+  {
+    "x500Name" : "CN=Broker, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+
+  {
+    "x500Name" : "CN=NotaryRep1, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi" : "NotaryServer",
+    "serviceX500Name": "CN=NotaryService, OU=Test Dept, O=R3, L=London, C=GB"
+  }
+]
